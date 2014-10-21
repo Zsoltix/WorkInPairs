@@ -1,3 +1,5 @@
 Library Project
 
 Modify #1
+
+We need a much better and longer description here.
